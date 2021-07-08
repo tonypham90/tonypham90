@@ -1,0 +1,16 @@
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.exe
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.deps.json
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.runtimeconfig.json
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.runtimeconfig.dev.json
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.dll
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\ref\CSHARP.dll
+d:\ELEARNING\C-shape\tonypham90\CSHARP\bin\Debug\net5.0\CSHARP.pdb
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.csproj.AssemblyReference.cache
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.AssemblyInfoInputs.cache
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.AssemblyInfo.cs
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.csproj.CoreCompileInputs.cache
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.dll
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\ref\CSHARP.dll
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.pdb
+d:\ELEARNING\C-shape\tonypham90\CSHARP\obj\Debug\net5.0\CSHARP.genruntimeconfig.cache

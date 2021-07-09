@@ -6,12 +6,26 @@ namespace CSHARP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.Write("I dont know how i did it");
-            Console.WriteLine("exactly I dont know how it work");
-            Console.WriteLine("Can you tell me what's your name?");
-            string Username = Console.ReadLine();
-            Console.Write("Your Name is: "+Username);
+            string firstName = "John";
+            string lastName = "Doe";
+            string name = $"My full Name is: {firstName} {lastName}";
+            Console.WriteLine(name);
+            int day = 3;
+            switch (day) 
+            {
+            
+                case 1:
+                    Console.WriteLine("Monday");
+                    break;
+            
+                case 2:
+                    Console.WriteLine("Tuesday");
+                
+                    break;
+                default:
+                    Console.WriteLine("Looking forward to the Weekend");
+                    break;
+            }
         }
     }
 }
